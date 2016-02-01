@@ -1,0 +1,19 @@
+.coach {
+  &-swipe {
+    height: 200px;
+  }
+  &-profile {
+    display: flex;
+    img {
+      width: 100px;
+      height: 100px;
+      overflow: hidden;
+      display: block;
+      margin-right: 10px;
+    }
+  }
+  &-info {
+    text-indent: 24px;
+    flex: 1
+  }
+}

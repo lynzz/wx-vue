@@ -1,0 +1,2651 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"moc",
+				"Mock"
+			],
+			[
+				"comp",
+				"componentDidMount	Life Cycle Method"
+			],
+			[
+				"Fom",
+				"FormItem"
+			],
+			[
+				"Form",
+				"FormItem"
+			],
+			[
+				"form",
+				"Form"
+			],
+			[
+				"insn",
+				"INSTALL_NAME"
+			],
+			[
+				"don",
+				"DOWNLOAD_DIR"
+			],
+			[
+				"host",
+				"HOST"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"main",
+				"mainWindow"
+			],
+			[
+				"fu",
+				"fullPath"
+			],
+			[
+				"Me",
+				"MERGE_PATH"
+			],
+			[
+				"M",
+				"MERGE_PATH"
+			],
+			[
+				"show",
+				"showFileOption"
+			],
+			[
+				"filep",
+				"fileOption"
+			],
+			[
+				"merge",
+				"MERGE_PATH"
+			],
+			[
+				"root",
+				"ROOT"
+			],
+			[
+				"CLS_",
+				"CLS_HOVER"
+			],
+			[
+				"remo",
+				"removeActive"
+			],
+			[
+				"bro",
+				"BrowserWindow"
+			],
+			[
+				"open",
+				"openFiles"
+			],
+			[
+				"opd",
+				"openDialog"
+			],
+			[
+				"glob",
+				"globalShortcut"
+			],
+			[
+				"read",
+				"readdirSync"
+			],
+			[
+				"dir",
+				"dirToTree"
+			],
+			[
+				"di",
+				"dirToTree"
+			],
+			[
+				"isd",
+				"isDir"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"retu",
+				"result"
+			],
+			[
+				"refre",
+				"refreshFiles"
+			],
+			[
+				"sel",
+				"selectedFiles"
+			],
+			[
+				"fina",
+				"fileName"
+			],
+			[
+				"dou",
+				"document"
+			],
+			[
+				"par",
+				"parentObject"
+			],
+			[
+				"pare",
+				"parentObject"
+			],
+			[
+				"paren",
+				"parentPath"
+			],
+			[
+				"item",
+				"itemIndex"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"isf",
+				"isFolder"
+			],
+			[
+				"parsef",
+				"parseFiles"
+			],
+			[
+				"fil",
+				"fileObject"
+			],
+			[
+				"proj",
+				"projectName"
+			],
+			[
+				"send",
+				"sendSync"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"data",
+				"dataTransfer"
+			],
+			[
+				"headv",
+				"headerView"
+			],
+			[
+				"code",
+				"codemirror"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"fom",
+				"formFields"
+			],
+			[
+				"dat",
+				"dataset"
+			],
+			[
+				"edi",
+				"editRow"
+			],
+			[
+				"current",
+				"currentTarget"
+			],
+			[
+				"grid",
+				"grid-action"
+			],
+			[
+				"page",
+				"pageSize"
+			],
+			[
+				"disa",
+				"displayName"
+			],
+			[
+				"dis",
+				"displayName"
+			],
+			[
+				"curr",
+				"currentTarget"
+			],
+			[
+				"cr",
+				"currentPage"
+			],
+			[
+				"active",
+				"activePage"
+			],
+			[
+				"list",
+				"listData"
+			],
+			[
+				"pagen",
+				"pageNumber"
+			],
+			[
+				"pge",
+				"pageNumber"
+			],
+			[
+				"has",
+				"hasPrev"
+			],
+			[
+				"li",
+				"listData"
+			],
+			[
+				"filt",
+				"filterKey"
+			],
+			[
+				"han",
+				"handebars-runtime"
+			],
+			[
+				"hn",
+				"handebars-runtime"
+			],
+			[
+				"sea",
+				"seajs"
+			],
+			[
+				"de",
+				"devDependencies"
+			],
+			[
+				"pando",
+				"pandorajs"
+			],
+			[
+				"ext",
+				"extendName"
+			],
+			[
+				"ex",
+				"extendName"
+			],
+			[
+				"get",
+				"getClass"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"pado",
+				"pandora"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"lie",
+				"line-height"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"ba",
+				"backToTopEle"
+			],
+			[
+				"cat",
+				"cat_ID"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"html",
+				"html5shiv"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"bor",
+				"border-bottom-color"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pr",
+				"primaryColor"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"cutl",
+				"cutlass-thumb"
+			],
+			[
+				"do",
+				"domsxe"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"fonts",
+				"fonts-copy"
+			],
+			[
+				"cle",
+				"clean-fonts"
+			],
+			[
+				"cleaf",
+				"clearfix"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"cl",
+				"clean-tmp"
+			],
+			[
+				"cha",
+				"changed"
+			],
+			[
+				"add",
+				"add_filter"
+			],
+			[
+				"wo",
+				"wordpress"
+			],
+			[
+				"up",
+				"updateLatestCount"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"site",
+				"sitemap"
+			],
+			[
+				"froc",
+				"formChildGroups"
+			],
+			[
+				"ms",
+				"MSG_EDIT"
+			],
+			[
+				"input-gr",
+				"input-group-addon"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"se",
+				"selectedIds"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"col",
+				"columnTpl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1808,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/route-config.js",
+			"settings":
+			{
+				"buffer_size": 925,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/views/course.vue",
+			"settings":
+			{
+				"buffer_size": 1221,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 13,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/moment/locale/zh-cn.js",
+			"settings":
+			{
+				"buffer_size": 4363,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app.vue",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/views/user.vue",
+			"settings":
+			{
+				"buffer_size": 2557,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/assets/less/app/base/theme.less",
+			"settings":
+			{
+				"buffer_size": 1927,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 509,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3-in",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"bs3-t",
+				"Snippet: bs3-table-hover"
+			],
+			[
+				"bs3-bu",
+				"Snippet: bs3-button"
+			],
+			[
+				"bs3-li",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"bs3-p",
+				"Snippet: bs3-panel"
+			],
+			[
+				"bs3-form",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"bs3-btn",
+				"Snippet: bs3-button"
+			],
+			[
+				"bs3-tab",
+				"Snippet: bs3-panel-table"
+			],
+			[
+				"bs3-b",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"bs3-co",
+				"Snippet: bs3-col-8"
+			],
+			[
+				"bs3-c",
+				"Snippet: bs3-col-4"
+			],
+			[
+				"bs3-",
+				"Snippet: bs3-row"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"fav",
+				"Favorite Files: Open File(s)"
+			],
+			[
+				"Package Control: git",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3-ta",
+				"Snippet: bs3-table-bordered"
+			],
+			[
+				"bs3-fr",
+				"Snippet: bs3-form-label"
+			],
+			[
+				"bs3f",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"tas",
+				"Set Syntax: Tasks"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"bs3-le",
+				"Snippet: bs3-label-success"
+			],
+			[
+				"fa",
+				"Favorite Files: Add File(s)"
+			],
+			[
+				"fava",
+				"Favorite Files: Add File(s)"
+			],
+			[
+				"Snippet: d",
+				"Snippet: define"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3-butt",
+				"Snippet: bs3-button"
+			],
+			[
+				"bs3-al",
+				"Snippet: bs3-alert-success"
+			],
+			[
+				"bs3-ch",
+				"Snippet: bs3-input-checkbox"
+			],
+			[
+				"bs3-form-in",
+				"Snippet: bs3-form-inline"
+			],
+			[
+				"bs3-s",
+				"Snippet: bs3-select"
+			],
+			[
+				"bs3-fo",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"bs3-a",
+				"Snippet: bs3-alert-success"
+			],
+			[
+				"bs3-	",
+				"Snippet: bs3-button"
+			],
+			[
+				"bs3-f",
+				"Snippet: bs3-form-label"
+			],
+			[
+				"bs3-inr",
+				"Snippet: bs3-input-radio"
+			],
+			[
+				"bs3-r",
+				"Snippet: bs3-input-radio"
+			],
+			[
+				"bs3-input-text",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"bs3-input-tex",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"ter",
+				"Open in terminal"
+			]
+		],
+		"width": 754.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lzz/github/wx-vue",
+		"/Users/lzz/github/wx-vue/node_modules/moment",
+		"/Users/lzz/github/wx-vue/node_modules/moment/locale",
+		"/Users/lzz/github/wx-vue/src/assets",
+		"/Users/lzz/github/wx-vue/src/assets/less",
+		"/Users/lzz/github/wx-vue/src/assets/less/app",
+		"/Users/lzz/github/wx-vue/src/assets/less/app/base",
+		"/Users/lzz/github/wx-vue/src/views"
+	],
+	"file_history":
+	[
+		"/Users/lzz/github/wx-vue/src/views/header.vue",
+		"/Users/lzz/github/wx-vue/src/views/sidebar.vue",
+		"/Users/lzz/github/wx-vue/src/views/login.vue",
+		"/Users/lzz/github/wx-vue/src/views/home.vue",
+		"/Users/lzz/github/react-admin/src/component/Breadcrumb.jsx",
+		"/Users/lzz/Library/Application Support/Sublime Text 3/Packages/User/jsx.sublime-snippet",
+		"/Users/lzz/github/react-admin/node_modules/dora-plugin-proxy/README.md",
+		"/Users/lzz/github/react-admin/.yo-rc.json",
+		"/Users/lzz/github/react-admin/webpack.config.js",
+		"/Users/lzz/github/react-admin/package.json",
+		"/Users/lzz/github/react-admin/src/components/footer.js",
+		"/Users/lzz/github/react-admin/src/components/app.js",
+		"/usr/local/lib/node_modules/generator-react-webpack/node_modules/yeoman-generator/node_modules/chalk/package.json",
+		"/usr/local/lib/node_modules/generator-react-webpack/node_modules/yeoman-generator/package.json",
+		"/usr/local/lib/node_modules/generator-react-webpack/package.json",
+		"/Users/lzz/github/react-admin/src/index.js",
+		"/Users/lzz/github/react-admin/lib/system.js",
+		"/Users/lzz/github/react-admin/.gitignore",
+		"/Users/lzz/github/react-admin/.babelrc",
+		"/Users/lzz/github/react-admin/src/component/App.jsx",
+		"/Users/lzz/dev/antd-init-demo/package.json",
+		"/Users/lzz/github/react-admin/README.md",
+		"/Users/lzz/github/react-admin/.eslintrc",
+		"/Users/lzz/github/17173/Ultron/ftp.js",
+		"/Users/lzz/github/17173/Ultron/app/lib/logger.js",
+		"/Users/lzz/github/17173/Ultron/app/lib/ultron.js",
+		"/Users/lzz/github/17173/Ultron/app/lib/transport.js",
+		"/Users/lzz/github/17173/Ultron/app/package.json",
+		"/Users/lzz/github/17173/Ultron/app/app.vue",
+		"/Users/lzz/github/17173/Ultron/app/main.js",
+		"/Users/lzz/github/17173/Ultron/app/lib/file.js",
+		"/Users/lzz/github/17173/Ultron/README.md",
+		"/Users/lzz/github/17173/Ultron/app/components/option.vue",
+		"/Users/lzz/github/17173/Ultron/CHANGELOG.md",
+		"/Users/lzz/github/17173/Ultron/app/views/header.vue",
+		"/Users/lzz/github/17173/Ultron/.eslintrc",
+		"/Users/lzz/github/17173/Ultron/app/components/tree.vue",
+		"/Users/lzz/github/17173/Ultron/webpack.config.js",
+		"/Users/lzz/github/17173/Ultron/packager.json",
+		"/Users/lzz/github/17173/Ultron/app/menu.js",
+		"/Users/lzz/github/17173/Ultron/app/lib/updater.js",
+		"/Users/lzz/github/17173/Ultron/package.json",
+		"/Users/lzz/github/17173/Ultron/app/components/modal.vue",
+		"/Users/lzz/github/17173/Ultron/app/components/aside.vue",
+		"/Users/lzz/github/17173/Ultron/app/views/sidebar.vue",
+		"/Users/lzz/github/17173/Ultron/.gitignore",
+		"/Users/lzz/github/17173/Ultron/app/logs/debug.log",
+		"/Users/lzz/github/17173/Ultron/CHANGELOG.html",
+		"/Users/lzz/github/17173/Ultron/app/debug.log",
+		"/Users/lzz/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/lzz/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/lzz/github/17173/Ultron/node_modules/eslint/lib/rules/prefer-arrow-callback.js",
+		"/Users/lzz/github/17173/Ultron/node_modules/babel-runtime/core-js/array/find-index.js",
+		"/Users/lzz/github/17173/Ultron/node_modules/electron-packager/node_modules/plist/node_modules/xmlbuilder/node_modules/lodash-node/compat/internals/baseCreateCallback.js",
+		"/Users/lzz/github/17173/Ultron/node_modules/babel-runtime/helpers/class-call-check.js",
+		"/Users/lzz/github/17173/Ultron/node_modules/iconv-lite/encodings/tables/big5-added.json",
+		"/Users/lzz/github/17173/Ultron/app/lib/util.js",
+		"/Users/lzz/github/17173/Ultron/app/main.html",
+		"/Users/lzz/github/17173/Ultron/node_modules/electron/README.md",
+		"/Users/lzz/github/17173/Ultron/node_modules/signal-exit/test/multi-exit.js",
+		"/Users/lzz/github/17173/Ultron/node_modules/.bin/electron",
+		"/Users/lzz/github/17173/Ultron/node_modules/extract-text-webpack-plugin/ExtractedModule.js",
+		"/Users/lzz/github/17173/Ultron/node_modules/webpack/lib/EntryModuleNotFoundError.js",
+		"/Users/lzz/github/17173/Ultron/app.json",
+		"/Users/lzz/github/17173/Ultron/node_modules/webpack/lib/AbstractPlugin.js",
+		"/Users/lzz/github/17173/Ultron/npm-debug.log",
+		"/Users/lzz/github/17173/Ultron/node_modules/electron-updater/README.md",
+		"/Users/lzz/github/17173/Ultron/app/assets/vendor/codemirror/lib/codemirror.css",
+		"/Users/lzz/github/17173/Ultron/app/views/footer.vue",
+		"/Users/lzz/github/17173/Ultron/.bowerrc",
+		"/Users/lzz/github/17173/Ultron/app/components/utils/EventListener.js",
+		"/Users/lzz/github/17173/Ultron/app/npm-debug.log",
+		"/Users/lzz/github/17173/Ultron/app/ultron-0.1.0.tgz",
+		"/Users/lzz/github/17173/Ultron/index.js",
+		"/Users/lzz/github/17173/Ultron/lib/ultron.js",
+		"/Users/lzz/github/17173/Ultron/lib/util.js",
+		"/Users/lzz/github/17173/Ultron/assets/osx/appdmg.json",
+		"/Users/lzz/github/17173/Ultron/app/components/codemirror.js",
+		"/Users/lzz/github/17173/Ultron/app/spec.html",
+		"/Users/lzz/github/17173/Ultron/app/app.html",
+		"/Users/lzz/github/17173/Ultron/app/main1.html",
+		"/Users/lzz/github/17173/Ultron/app/hot-dev-app.html",
+		"/Users/lzz/github/17173/Ultron/app/background.js",
+		"/Users/lzz/github/17173/Ultron/gulpfile.js",
+		"/Users/lzz/github/17173/Ultron/lib/compress.js",
+		"/Users/lzz/github/17173/Ultron/list-content-1.zip",
+		"/Users/lzz/github/17173/Ultron/lib/transport.js",
+		"/Users/lzz/github/17173/Ultron/app/directives/codemirror.js",
+		"/Users/lzz/github/17173/Ultron/webpack.config.development.js",
+		"/Users/lzz/github/17173/Ultron/webpack.config.base.js",
+		"/Users/lzz/github/17173/Ultron/webpack.config.production.js",
+		"/Users/lzz/github/17173/Ultron/server.js",
+		"/Users/lzz/github/17173/Ultron/app/build.js",
+		"/Users/lzz/github/17173/ultron/app/views/sidebar.vue",
+		"/Users/lzz/github/17173/ultron/.gitignore",
+		"/Users/lzz/github/17173/ultron/package.json",
+		"/Users/lzz/github/17173/ultron/index.js",
+		"/Users/lzz/github/17173/ultron/app/components/tree.vue",
+		"/Users/lzz/github/17173/ultron/app/views/header.vue",
+		"/Users/lzz/github/17173/ultron/app/app.vue",
+		"/Users/lzz/dev/electron-vuejs/app/app.vue",
+		"/Users/lzz/dev/electron-vuejs/app/views/header.vue",
+		"/Users/lzz/dev/electron-vuejs/app/views/sidebar.vue",
+		"/Users/lzz/dev/electron-vuejs/index.js",
+		"/Users/lzz/dev/electron-vuejs/lib/cmsTemplate.js",
+		"/Users/lzz/dev/electron-vuejs/lib/compress.js",
+		"/Users/lzz/dev/electron-vuejs/webpack.config.js",
+		"/Users/lzz/dev/electron-vuejs/webpack.config.base.js",
+		"/Users/lzz/dev/electron-vuejs/webpack.config.development.js",
+		"/Users/lzz/dev/electron-vuejs/webpack.config.production.js",
+		"/Users/lzz/dev/electron-vuejs/server.js",
+		"/Users/lzz/dev/electron-vuejs/app/hot-dev-app.html",
+		"/Users/lzz/dev/electron-vuejs/app/main.js",
+		"/Users/lzz/dev/electron-vuejs/app/index.html",
+		"/Users/lzz/dev/electron-vuejs/app/components/codemirror.js",
+		"/Users/lzz/dev/electron-vuejs/package.json",
+		"/Users/lzz/dev/electron-vuejs/app/assets/css/dashboard.css",
+		"/Users/lzz/dev/electron-vuejs/app/main1.html",
+		"/Users/lzz/github/bootstrap3-grid/package.json",
+		"/Users/lzz/.spm/spmrc-3x",
+		"/Users/lzz/dev/electron-vuejs/app/directive/codemirror.js",
+		"/Users/lzz/dev/electron-vuejs/app/directive",
+		"/Users/lzz/dev/vuejs-demo/src/views/grid-view.vue",
+		"/Users/lzz/dev/vuejs-demo/src/components/grid/grid.vue",
+		"/Users/lzz/dev/vuejs-demo/src/components/backdrop.vue",
+		"/Users/lzz/dev/vuejs-demo/src/components/grid.vue",
+		"/Users/lzz/dev/hexo-editor/package.json",
+		"/Users/lzz/dev/hexo-editor/src/main.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/less",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/app",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/app/page/design",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/app",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/app/page/design",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/less",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/app",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/sea-modules/",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/sea-modules/pandora",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/sea-modules",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/component",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/page",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/less/cms",
+			"/Users/lzz/17173/cms3.1.4-dev/fed/src/app",
+			"/Users/lzz/17173/cms3.0-dev/fed/src/app",
+			"/Users/lzz/17173/cms3.0-dev/fed/src/less/bootstrap",
+			"/Users/lzz/17173/cms3.0-dev/fed/src/app/",
+			"/Users/lzz/17173/cms3.0-dev/fed/src/app/conteng",
+			"/Users/lzz/17173/cms3.0-dev/fed/src/app/component",
+			"/Users/lzz/17173/cms3.0-dev/fed/src/app/common",
+			"/Users/lzz/17173/cms3.0-dev/fed/src/app",
+			"/Users/lzz/17173/cms3.0-dev/fed/src/app/common/form",
+			"/Users/lzz/17173/cms3.0-dev/fed",
+			"/Users/lzz/17173/cms3.0-dev/fed/src",
+			"/Users/lzz/17173/cms3.0-dev/src/fed",
+			"/Users/lzz/17173/cms3.0-dev/WEB-INF",
+			"/Users/lzz/17173/cms3.0-dev/fed/src/app",
+			"/Users/lzz/17173/cms3.0-dev/fed/src",
+			"/Users/lzz/17173/cms3.0-dev/fed/",
+			"/Users/lzz/17173/cms3.0-dev/fed/sea-modules",
+			"/Users/lzz/17173/cms3.0-dev/fed/src/app",
+			"/Users/lzz/17173/cms3.0-dev/fed/",
+			"/Users/lzz/17173/cms3.0-dev/fed/src/app",
+			"/Users/lzz/17173/cms3.0-dev/fed/mock",
+			"/Users/lzz/17173/cms3.0-dev/fed/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"vue-admin",
+			"handlePicker",
+			"Header",
+			"value",
+			"User",
+			"this",
+			"App",
+			"findUserById",
+			"Footer",
+			"pkg",
+			"packageInfo",
+			"console.log",
+			"cmsTemplateUpdater",
+			"var",
+			"name",
+			"remote",
+			"log.info",
+			"console.log",
+			"console.error",
+			"file",
+			"log.warn",
+			"log.error",
+			"log(",
+			"log",
+			"util.log",
+			"util.debug",
+			"log.debug",
+			"var",
+			"log.debug",
+			"log.info",
+			"var",
+			"MERGE",
+			"remote",
+			"Menu",
+			"MenuItem",
+			"window",
+			"showFileOption",
+			"window",
+			"path",
+			"curFileName",
+			"filePath",
+			"MenuItem",
+			"CLS_HOVER",
+			"MERGE_PATH",
+			"CLS_ACTIVE",
+			"MERGE_PATH",
+			"CLS_HOVER",
+			"CLS_ACTIVE",
+			"MERGE_PATH",
+			"CLS_HOVER",
+			"CLS_ACTIVE",
+			"MERGE_PATH",
+			"OUT_PATH",
+			"dest",
+			"var",
+			"hasNewVersion",
+			"curPath",
+			"previewUrl",
+			": function",
+			"function",
+			": function()",
+			"needRenameFile",
+			"model.fullPath",
+			"-node",
+			"fileOption",
+			"rimraf",
+			"isPathInCwd",
+			"filePath[0]",
+			"var",
+			"tree",
+			"asideModal",
+			"removeActive",
+			"hoverNode",
+			"enterNode",
+			"active",
+			"rootPath",
+			"e",
+			"loadFiles",
+			"pkg",
+			"loadUrl",
+			"rimraf",
+			"var",
+			"update",
+			"globalShortcut",
+			"search",
+			"MenuItem",
+			"ipc",
+			"sameid",
+			"path",
+			"sidebar",
+			"Loopline Systems",
+			"resources",
+			"packager",
+			"assets",
+			"vendor",
+			"header",
+			"_path",
+			"fn",
+			"name",
+			"open",
+			"results",
+			"parseFiles",
+			"uitl",
+			"file",
+			"transport",
+			"fullPath",
+			"util",
+			"path",
+			"app/",
+			"thisPath",
+			"setTypeInclude",
+			"refreshFiles",
+			"projectName",
+			"onTreeFile",
+			"textarea",
+			"\"",
+			"nodeHandle",
+			"lib/codemirror",
+			"tern",
+			"showCursorWhenSelecting",
+			"index",
+			"fileName",
+			"file",
+			"aside",
+			"modal",
+			"#",
+			"indents",
+			"rootIndex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"['首页', '${myIndex}']"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								690,
+								690
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/route-config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 925,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/views/course.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1198,
+								1198
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "node_modules/moment/locale/zh-cn.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								743,
+								756
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/app.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/views/user.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/assets/less/app/base/theme.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 230.0
+	},
+	"output.exec":
+	{
+		"height": 197.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "wx-vue.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"file",
+				"app/lib/file.js"
+			],
+			[
+				"back",
+				"app/background.js"
+			],
+			[
+				"menu",
+				"app/menu.js"
+			],
+			[
+				"bac",
+				"app/background.js"
+			],
+			[
+				"app.v",
+				"app/app.vue"
+			],
+			[
+				"gulp",
+				"wp-content/themes/cutlass-wp-theme/Gulpfile.js"
+			],
+			[
+				"_com",
+				"wp-content/themes/cutlass-wp-theme/src/sass/components/_components.scss"
+			],
+			[
+				"fun",
+				"wp-content/themes/cutlass-wp-theme/functions.php"
+			],
+			[
+				"form",
+				"wp-includes/formatting.php"
+			],
+			[
+				"categor",
+				"fed/src/less/cms/category.less"
+			],
+			[
+				"select.le",
+				"fed/src/less/cms/select.less"
+			],
+			[
+				"wid",
+				"fed/sea-modules/pandora/widget/1.0.0/widget-debug.js"
+			],
+			[
+				"select-de",
+				"fed/sea-modules/pandora/select/1.0.0/select-debug.js"
+			],
+			[
+				"sit",
+				"fed/mock/extend/xml/sitemap.js"
+			],
+			[
+				"sitem",
+				"fed/mock/extend/xml/sitemap.js"
+			],
+			[
+				"base.le",
+				"fed/src/less/cms/base.less"
+			],
+			[
+				"vald",
+				"fed/sea-modules/pandora/validate/1.0.0/validate-debug.js"
+			],
+			[
+				"sitea",
+				"fed/mock/extend/xml/sitemap.js"
+			],
+			[
+				"util",
+				"fed/src/app/common/util.js"
+			],
+			[
+				"site",
+				"fed/mock/extend/xml/sitemap.js"
+			],
+			[
+				"urlma",
+				"fed/src/app/common/urlmap.js"
+			],
+			[
+				"gru",
+				"fed/Gruntfile.js"
+			],
+			[
+				"io.js",
+				"fed/src/app/common/io.js"
+			],
+			[
+				"handh",
+				"fed/sea-modules/gallery/handlebars-helpers/1.3.0/handlebars-helpers-debug.js"
+			],
+			[
+				"grunt",
+				"fed/Gruntfile.js"
+			],
+			[
+				"design/le",
+				"fed/src/app/page/design/less/component-tab.less"
+			],
+			[
+				"urlm",
+				"fed/src/app/common/urlmap.js"
+			],
+			[
+				"cms.less",
+				"fed/src/css/cms.less"
+			],
+			[
+				"login",
+				"fed/src/app/login/index.js"
+			],
+			[
+				"confirm",
+				"fed/sea-modules/pandora/dialog/1.0.0/confirm-debug.js"
+			],
+			[
+				"dialogd",
+				"fed/sea-modules/pandora/dialog/1.0.0/dialog-debug.js"
+			],
+			[
+				"dialogf",
+				"fed/src/app/common/form/dialogform.js"
+			],
+			[
+				"sitema",
+				"fed/mock/xml/sitemap.js"
+			],
+			[
+				"url",
+				"fed/src/app/common/urlmap.js"
+			],
+			[
+				"dated",
+				"fed/sea-modules/jquery/daterangepicker/1.3.8/daterangepicker-debug.js"
+			],
+			[
+				"sitemapin",
+				"WEB-INF/template/ftl/admin/xml/sitemap/index.ftl"
+			],
+			[
+				"tab-de",
+				"fed/sea-modules/pandora/tabs/1.0.0/tabs-debug.js"
+			],
+			[
+				"bootsd",
+				"fed/sea-modules/jquery/bootstrap3-grid/0.6.2/bootstrap3-grid-debug.js"
+			],
+			[
+				"tabs-de",
+				"fed/sea-modules/pandora/tabs/1.0.0/tabs-debug.js"
+			],
+			[
+				"search",
+				"fed/src/app/common/search/search.js"
+			],
+			[
+				"article.",
+				"fed/src/less/cms/article.less"
+			],
+			[
+				"inc.ftl",
+				"WEB-INF/template/ftl/admin/inc/inc.ftl"
+			],
+			[
+				"handebard",
+				"fed/sea-modules/gallery/handlebars-helpers/1.3.0/handlebars-helpers-debug.js"
+			],
+			[
+				"util.js",
+				"fed/src/app/common/util.js"
+			],
+			[
+				"pac",
+				"fed/package.json"
+			],
+			[
+				"g",
+				"fed/Gruntfile.js"
+			],
+			[
+				"datet",
+				"fed/src/app/component/source/vote/common/datetime.js"
+			],
+			[
+				"grun",
+				"fed/Gruntfile.js"
+			],
+			[
+				"viewd",
+				"fed/src/app/component/source/vote/view/viewdialog.js"
+			],
+			[
+				"vote/pl",
+				"fed/src/app/common/editor/plugins/vote/plugin.js"
+			],
+			[
+				"ov",
+				"fed/sea-modules/pandora/overlay/1.0.0/overlay-debug.js"
+			],
+			[
+				"overly",
+				"fed/sea-modules/pandora/overlay/1.0.0/overlay-debug.js"
+			],
+			[
+				"base-de",
+				"fed/sea-modules/pandora/base/1.0.0/base-debug.js"
+			],
+			[
+				"overl",
+				"fed/sea-modules/pandora/overlay/1.0.0/overlay-debug.js"
+			],
+			[
+				"search/core",
+				"fed/src/app/common/search/core.js"
+			],
+			[
+				"plugin/link",
+				"fed/src/app/common/editor/plugins/link/plugin.js"
+			],
+			[
+				"resourc",
+				"fed/src/app/setting/resource/resource.js"
+			],
+			[
+				"bootd",
+				"fed/sea-modules/jquery/bootstrap3-grid/0.6.2/bootstrap3-grid-debug.js"
+			],
+			[
+				"search.js",
+				"fed/src/app/common/search/search.js"
+			],
+			[
+				"tags.js",
+				"fed/src/app/common/tags/tags.js"
+			],
+			[
+				"tags",
+				"fed/src/app/common/tags/tags.js"
+			],
+			[
+				"daterd",
+				"fed/sea-modules/jquery/daterangepicker/1.3.8/daterangepicker-debug.js"
+			],
+			[
+				"wi",
+				"fed/sea-modules/pandora/widget/1.0.0/widget-debug.js"
+			],
+			[
+				"p",
+				"fed/package.json"
+			],
+			[
+				"datepid",
+				"fed/sea-modules/jquery/daterangepicker/1.3.8/daterangepicker-debug.js"
+			],
+			[
+				"theme.ls",
+				"fed/src/less/cms/theme.less"
+			],
+			[
+				"theme.less",
+				"fed/src/less/bootstrap/theme.less"
+			],
+			[
+				"head",
+				"WEB-INF/template/ftl/admin/inc/header.ftl"
+			],
+			[
+				"page.js",
+				"fed/src/app/page/design/page.js"
+			],
+			[
+				"release/set",
+				"fed/src/app/content/release/setup.js"
+			],
+			[
+				"code/index",
+				"fed/src/app/page/code/index.js"
+			],
+			[
+				"wide",
+				"fed/sea-modules/pandora/widget/1.0.0/widget-debug.js"
+			],
+			[
+				"uti",
+				"fed/src/app/common/util.js"
+			],
+			[
+				"glo",
+				"WEB-INF/template/ftl/admin/inc/global.ftl"
+			],
+			[
+				"valide",
+				"fed/sea-modules/pandora/validate/1.0.0/validate-debug.js"
+			],
+			[
+				"channel",
+				"fed/src/app/channel/channel.js"
+			],
+			[
+				"image/pan",
+				"fed/src/app/common/editor/plugins/image/panelist.js"
+			],
+			[
+				"seac",
+				"fed/src/js/sea-config.js"
+			],
+			[
+				"inc.",
+				"WEB-INF/template/ftl/admin/inc/inc.ftl"
+			],
+			[
+				"sear",
+				"fed/src/app/common/search/search.js"
+			],
+			[
+				"sea-con",
+				"fed/src/js/sea-config.js"
+			],
+			[
+				"seab",
+				"fed/src/js/sea-debug.js"
+			],
+			[
+				"outlogi",
+				"WEB-INF/template/ftl/admin/outlogin/index.ftl"
+			],
+			[
+				"res",
+				"fed/src/app/setting/resource/resource.js"
+			],
+			[
+				"inc.ft",
+				"WEB-INF/template/ftl/admin/inc/inc.ftl"
+			],
+			[
+				"he",
+				"WEB-INF/template/ftl/admin/inc/header.ftl"
+			],
+			[
+				"core.js",
+				"fed/src/app/common/search/core.js"
+			],
+			[
+				"tongj",
+				"WEB-INF/template/ftl/admin/inc/tongji.ftl"
+			],
+			[
+				"inc",
+				"WEB-INF/template/ftl/admin/inc/inc.ftl"
+			],
+			[
+				"login.ftl",
+				"WEB-INF/template/ftl/admin/login/index.ftl"
+			],
+			[
+				"rea",
+				"fed/README.md"
+			],
+			[
+				"login/index",
+				"fed/src/app/login/index.js"
+			],
+			[
+				"autor",
+				"fed/sea-modules/pandora/widget/1.0.0/autorender-debug.js"
+			],
+			[
+				"widge",
+				"fed/sea-modules/pandora/widget/1.0.0/widget-debug.js"
+			],
+			[
+				"new",
+				"WEB-INF/template/ftl/admin/inc/newrelic.ftl"
+			],
+			[
+				"theme.l",
+				"fed/src/less/cms/theme.less"
+			],
+			[
+				"login.js",
+				"fed/src/app/login/index.js"
+			],
+			[
+				"reso",
+				"fed/src/app/setting/resource/resource.js"
+			],
+			[
+				"resoure",
+				"dist/app/setting/resource/resource.js"
+			],
+			[
+				"scripts.js",
+				"fed/src/app/page/design/scripts.js"
+			],
+			[
+				"audi",
+				"WEB-INF/template/ftl/admin/content/audit/index.ftl"
+			],
+			[
+				"pic/base",
+				"fed/src/app/content/pic/base.js"
+			],
+			[
+				"form.js",
+				"fed/src/app/common/form/form.js"
+			],
+			[
+				"ovd",
+				"fed/sea-modules/pandora/overlay/1.0.0/overlay-debug.js"
+			],
+			[
+				"digd",
+				"fed/sea-modules/pandora/dialog/1.0.0/dialog-debug.js"
+			],
+			[
+				"did",
+				"fed/sea-modules/pandora/dialog/1.0.0/dialog-debug.js"
+			],
+			[
+				"ove",
+				"fed/sea-modules/pandora/overlay/1.0.0/overlay-debug.js"
+			],
+			[
+				"dialog-d",
+				"fed/sea-modules/pandora/dialog/1.0.0/dialog-debug.js"
+			],
+			[
+				"game.js",
+				"fed/src/app/common/game/game.js"
+			],
+			[
+				"dialog-de",
+				"fed/sea-modules/pandora/dialog/1.0.0/dialog-debug.js"
+			],
+			[
+				"auditindex.f",
+				"WEB-INF/template/ftl/admin/content/audit/index.ftl"
+			],
+			[
+				"auditpe",
+				"fed/src/app/content/audit/pending-list.js"
+			],
+			[
+				"auditin",
+				"WEB-INF/template/ftl/admin/content/audit/index.ftl"
+			],
+			[
+				"common/search",
+				"fed/src/app/common/search/search.js"
+			],
+			[
+				"category/core.js",
+				"fed/src/app/common/category/core.js"
+			],
+			[
+				"perm",
+				"fed/src/app/setting/permission/permission.js"
+			],
+			[
+				"jq",
+				"dist/js/jquery-debug.js"
+			],
+			[
+				"recom",
+				"fed/src/app/content/release/gallery/recommendtags.js"
+			],
+			[
+				"resource",
+				"fed/src/app/setting/resource/resource.js"
+			],
+			[
+				"page/addindex.js",
+				"fed/src/app/page/page/add/index.js"
+			],
+			[
+				"select-eg",
+				"fed/sea-modules/pandora/select/1.1.0/select-debug.js"
+			],
+			[
+				"preveiw/index.ftl",
+				"WEB-INF/template/ftl/admin/content/preview/index.ftl"
+			],
+			[
+				"code/index.js",
+				"fed/src/app/page/code/index.js"
+			],
+			[
+				"page/pageindex",
+				"fed/src/app/page/page/index.js"
+			],
+			[
+				"tab-debugh",
+				"fed/sea-modules/pandora/tabs/1.0.0/tabs-debug.handlebars.js"
+			],
+			[
+				"category/core",
+				"fed/src/app/common/category/core.js"
+			],
+			[
+				"urlmap",
+				"fed/src/app/common/urlmap.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
