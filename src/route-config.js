@@ -12,6 +12,16 @@ export function configRouter (router) {
       component: require('./views/coach.vue')
     },
 
+    '/wallet': {
+      name: 'wallet',
+      component: require('./views/wallet.vue')
+    },
+
+    '/order': {
+      name: 'order',
+      component: require('./views/order.vue')
+    },
+
     '/about': {
       component: require('./views/about.vue')
     },

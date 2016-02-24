@@ -37,6 +37,12 @@ module.exports = {
       js: 'babel'
     }
   },
+
+  externals: {
+    'wx': 'window.wx',
+    'flexible': 'window.lib'
+  },
+
   // configure babel-loader (for both .js and .vue files).
   // see https://babeljs.io/docs/usage/options/
   babel: {

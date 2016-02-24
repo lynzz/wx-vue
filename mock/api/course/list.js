@@ -32,6 +32,5 @@ module.exports = function(req, res, next) {
     }
   };
   data = JSON.stringify(Mock.mock(data));
-  console.log(data);
   res.end(data);
 }

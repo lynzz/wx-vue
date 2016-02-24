@@ -24,10 +24,13 @@
       </section>
     </div>
   </div>
+  <menu />
 </template>
 
 <script>
-var moment = require('moment')
+import Menu from '../components/nav.vue'
+
+const moment = require('moment')
 
 const DAYS_SHORT = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
 
@@ -37,7 +40,7 @@ const STATUS_NAME = {
   '3': '结束'
 }
 
-module.exports = {
+export default {
   data() {
     
     return {
@@ -98,6 +101,10 @@ module.exports = {
     tagsArray(tags) {
       return tags.split(',')
     }
+  },
+
+  components: {
+    Menu
   }
 }
 </script>

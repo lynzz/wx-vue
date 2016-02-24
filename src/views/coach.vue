@@ -24,7 +24,7 @@
 <script>
 import {Swipe, SwipeItem} from 'vue-swipe'
 
-module.exports = {
+export default {
   data() {
     return {
       coachData: {}

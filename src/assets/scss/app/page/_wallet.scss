@@ -1,0 +1,38 @@
+.wallet {
+  &-person {
+    text-align: center;
+    img {
+      width: px2rem(80px);
+      height: px2rem(80px);
+      overflow: hidden;
+    }
+    &-bg {
+      height: px2rem(319px);
+    }
+    &-level {
+      color: #FF8112;
+    }
+    &-info {
+      margin: px2rem(20px) 0;
+      display: flex;
+      
+      .cell {
+        flex: 1;
+        border-right: 1px solid #D7D3D0;
+        &:last-child {
+          border-right: 0;
+        }
+        dt {
+          color: #54534F
+        }
+        dd {
+          color: #A9A8A6
+        }
+      }
+    }
+  }
+  &-btns {
+    text-align: center;
+  }
+
+}
